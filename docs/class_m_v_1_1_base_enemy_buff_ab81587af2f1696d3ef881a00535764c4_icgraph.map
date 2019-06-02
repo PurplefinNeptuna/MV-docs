@@ -1,0 +1,3 @@
+<map id="MV.BaseEnemyBuff.BuffTick" name="MV.BaseEnemyBuff.BuffTick">
+<area shape="rect" id="node2" href="$class_m_v_1_1_base_enemy_buff.html#a24d4e01360e1e1cf8a93b04a4e1d1381" title="Tick for BaseEnemies, override BuffTick for buff effects " alt="" coords="248,5,419,32"/>
+</map>

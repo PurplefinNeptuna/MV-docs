@@ -1,0 +1,4 @@
+<map id="MV.BasePlayerBuff.SetDefault" name="MV.BasePlayerBuff.SetDefault">
+<area shape="rect" id="node2" href="$class_m_v_1_1_m_v_utility.html#a7c43e07e159ff75fe6bfb33f143d44c9" title="Create new buff for player " alt="" coords="256,5,460,32"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_player.html#acad89d5f136738734826b6607e7f53c8" title="Method for giving player buff " alt="" coords="508,5,640,32"/>
+</map>

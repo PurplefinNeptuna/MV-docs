@@ -1,0 +1,9 @@
+<map id="MV.MVUtility.Leq0" name="MV.MVUtility.Leq0">
+<area shape="rect" id="node2" href="$class_m_v_1_1_base_enemy_buff.html#a24d4e01360e1e1cf8a93b04a4e1d1381" title="Tick for BaseEnemies, override BuffTick for buff effects " alt="" coords="185,5,356,32"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_base_player_buff.html#ac9ef2e8e5f7f4702cb83d80c8058d737" title="Tick for Player, override BuffTick for buff effects " alt="" coords="187,56,354,83"/>
+<area shape="rect" id="node4" href="$class_m_v_1_1_player.html#a3817005a036c9ada462afcfc7cb77644" title="Method for giving player damage " alt="" coords="208,107,333,133"/>
+<area shape="rect" id="node5" href="$class_m_v_1_1_player.html#ab3cb10f0430ba1bd83c26e54daa72b42" title="Get player position " alt="" coords="193,157,348,184"/>
+<area shape="rect" id="node6" href="$class_m_v_1_1_game_script.html#a2703ec551581054c2cd5b7426e81cfd8" title="Load room referenced by MVMain.Room.activeroomData " alt="" coords="404,132,587,159"/>
+<area shape="rect" id="node7" href="$class_m_v_1_1_game_script.html#afd944b682ddbb94d2c307fae3308adde" title="Called when player come into teleporter tiles " alt="" coords="412,183,579,209"/>
+<area shape="rect" id="node8" href="$class_m_v_1_1_player.html#adb3180f04b31a09f7aaf1df41782da59" title="Method for removing player after dead, and forcing game over " alt="" coords="635,183,753,209"/>
+</map>

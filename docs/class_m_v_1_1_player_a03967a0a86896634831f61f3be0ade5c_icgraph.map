@@ -1,0 +1,4 @@
+<map id="MV.Player.HasWeapon" name="MV.Player.HasWeapon">
+<area shape="rect" id="node2" href="$class_m_v_1_1_player.html#a801dccfaef762848ff8d2b7ab5422708" title="Get player&#39;s weapon data " alt="" coords="212,5,368,32"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_player.html#ac7734413c89f2b9ed90a7b966ed41889" title="Get the level of given weapon " alt="" coords="416,31,603,57"/>
+</map>

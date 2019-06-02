@@ -1,0 +1,7 @@
+<map id="MV.GameScript" name="MV.GameScript">
+<area shape="rect" id="node5" href="$class_m_v_1_1_base_object.html" title="Base class of nearly all physiscal objects " alt="" coords="83,81,173,108"/>
+<area shape="rect" id="node4" href="$class_m_v_1_1_base_enemy.html" title="Base class for enemies " alt="" coords="83,247,200,273"/>
+<area shape="rect" id="node6" href="$class_m_v_1_1_player.html" title="Class for player " alt="" coords="147,157,229,184"/>
+<area shape="rect" id="node7" href="$class_m_v_1_1_timer.html" title="MV.Timer" alt="" coords="422,247,501,273"/>
+<area shape="rect" id="node8" href="$class_m_v_1_1_game_script_data.html" title="Data for saving " alt="" coords="525,247,667,273"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_cinemachine_pixel_perfect.html" title="Add this component to a camera that has PixelPerfectCamera and CinemachineBrain components to prevent..." alt="" coords="165,5,335,32"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_base_object.html" title="Base class of nearly all physiscal objects " alt="" coords="193,56,307,83"/>
+<area shape="rect" id="node7" href="$class_m_v_1_1_base_projectile.html" title="Base class for Projectiles, has lightweight pysics calculation and use circle bounds ..." alt="" coords="185,107,315,133"/>
+<area shape="rect" id="node8" href="$class_m_v_1_1_game_script.html" title="Core for MV functionality " alt="" coords="193,157,307,184"/>
+<area shape="rect" id="node9" href="$class_m_v_1_1_music_manager.html" title="Class for playing background music " alt="" coords="185,208,315,235"/>
+<area shape="rect" id="node10" href="$class_m_v_1_1_m_v_main.html" title="MV.MVMain" alt="" coords="203,259,297,285"/>
+<area shape="rect" id="node11" href="$class_m_v_1_1_room_manager.html" title="Class for managing active and available rooms " alt="" coords="185,309,315,336"/>
+<area shape="rect" id="node12" href="$class_m_v_1_1_sound_manager.html" title="Class for playing sounds " alt="" coords="183,360,317,387"/>
+<area shape="rect" id="node13" href="$class_m_v_1_1_world_manager.html" title="Class for all world data " alt="" coords="185,411,315,437"/>
+<area shape="rect" id="node4" href="$class_m_v_1_1_base_enemy.html" title="Base class for enemies " alt="" coords="383,5,500,32"/>
+<area shape="rect" id="node5" href="$class_m_v_1_1_base_pickup.html" title="Base class for pickups " alt="" coords="383,56,499,83"/>
+<area shape="rect" id="node6" href="$class_m_v_1_1_player.html" title="Class for player " alt="" coords="400,107,483,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MV.BaseEnemyBuff" name="MV.BaseEnemyBuff">
+<area shape="rect" id="node2" href="$class_m_v_1_1_base_enemy.html" title="Base class for enemies " alt="" coords="17,247,135,273"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_base_object.html" title="Base class of nearly all physiscal objects " alt="" coords="25,81,116,108"/>
+<area shape="rect" id="node5" href="$class_m_v_1_1_player.html" title="Class for player " alt="" coords="92,157,175,184"/>
+</map>

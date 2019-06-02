@@ -1,0 +1,3 @@
+<map id="MV.WorldManager.SetMarker" name="MV.WorldManager.SetMarker">
+<area shape="rect" id="node2" href="$class_m_v_1_1_base_enemy.html#af8593bde67bb1e0b92bde5cfb270f204" title="Do custom event when died, need set useCustomDeath = true Need to destroy GameObject manually with th..." alt="" coords="248,5,451,32"/>
+</map>

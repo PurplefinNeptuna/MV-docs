@@ -1,0 +1,3 @@
+<map id="MV.GameScript.Teleport" name="MV.GameScript.Teleport">
+<area shape="rect" id="node2" href="$class_m_v_1_1_player.html#adb3180f04b31a09f7aaf1df41782da59" title="Method for removing player after dead, and forcing game over " alt="" coords="220,5,339,32"/>
+</map>

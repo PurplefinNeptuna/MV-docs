@@ -1,0 +1,4 @@
+<map id="MV.RoomManager.GetLocalChunkPos" name="MV.RoomManager.GetLocalChunkPos">
+<area shape="rect" id="node2" href="$class_m_v_1_1_game_script.html#a607f2ccb10ed89b27d73b0c1809ca23f" title="get chunk position in room from 3D position " alt="" coords="301,5,533,32"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_base_enemy.html#af8593bde67bb1e0b92bde5cfb270f204" title="Do custom event when died, need set useCustomDeath = true Need to destroy GameObject manually with th..." alt="" coords="581,5,784,32"/>
+</map>

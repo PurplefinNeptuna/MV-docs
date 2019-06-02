@@ -1,0 +1,4 @@
+<map id="MV.BaseEnemyBuff.SetDefault" name="MV.BaseEnemyBuff.SetDefault">
+<area shape="rect" id="node2" href="$class_m_v_1_1_m_v_utility.html#a2424e8e9693e53ace1ab8ba2ad9d99ff" title="Create new buff for enemy " alt="" coords="260,5,468,32"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_base_enemy.html#a84f34ea5445668a0ad1bab3af33d3b18" title="Method for giving enemy buff " alt="" coords="516,5,683,32"/>
+</map>

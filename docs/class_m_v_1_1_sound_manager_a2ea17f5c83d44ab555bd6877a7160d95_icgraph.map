@@ -1,0 +1,10 @@
+<map id="MV.SoundManager.Play" name="MV.SoundManager.Play">
+<area shape="rect" id="node2" href="$class_m_v_1_1_base_enemy.html#a0731c94fe7353c60e3eaaf660023109a" title="Method for giving Enemy damage from Player " alt="" coords="238,5,397,32"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_base_enemy.html#af8593bde67bb1e0b92bde5cfb270f204" title="Do custom event when died, need set useCustomDeath = true Need to destroy GameObject manually with th..." alt="" coords="216,56,419,83"/>
+<area shape="rect" id="node4" href="$class_m_v_1_1_player.html#a3817005a036c9ada462afcfc7cb77644" title="Method for giving player damage " alt="" coords="255,107,380,133"/>
+<area shape="rect" id="node5" href="$class_m_v_1_1_player.html#ab3cb10f0430ba1bd83c26e54daa72b42" title="Get player position " alt="" coords="240,157,395,184"/>
+<area shape="rect" id="node9" href="$class_m_v_1_1_projectile_manager.html#a80de73f7fa3e19047c6632cf558ad592" title="Spawn new projectile " alt="" coords="220,208,415,235"/>
+<area shape="rect" id="node6" href="$class_m_v_1_1_game_script.html#a2703ec551581054c2cd5b7426e81cfd8" title="Load room referenced by MVMain.Room.activeroomData " alt="" coords="467,132,649,159"/>
+<area shape="rect" id="node7" href="$class_m_v_1_1_game_script.html#afd944b682ddbb94d2c307fae3308adde" title="Called when player come into teleporter tiles " alt="" coords="475,183,641,209"/>
+<area shape="rect" id="node8" href="$class_m_v_1_1_player.html#adb3180f04b31a09f7aaf1df41782da59" title="Method for removing player after dead, and forcing game over " alt="" coords="697,183,816,209"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MV.BaseWeapon.SetDefault" name="MV.BaseWeapon.SetDefault">
+<area shape="rect" id="node2" href="$class_m_v_1_1_m_v_utility.html#ac725ad84e0a1c99608c3a73e25cdedb2" title="Create new weapon " alt="" coords="244,5,435,32"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_game_script.html#afdfcc2375096321de9f9414d5855d5df" title="Save data to persistentPath " alt="" coords="483,5,675,32"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="MV.MVMain" name="MV.MVMain">
+<area shape="rect" id="node3" href="$class_m_v_1_1_sound_manager.html" title="Class for playing sounds " alt="" coords="591,549,724,576"/>
+<area shape="rect" id="node6" href="$class_m_v_1_1_world_manager.html" title="Class for all world data " alt="" coords="436,21,567,48"/>
+<area shape="rect" id="node8" href="$class_m_v_1_1_room_manager.html" title="Class for managing active and available rooms " alt="" coords="436,396,567,423"/>
+<area shape="rect" id="node11" href="$class_m_v_1_1_music_manager.html" title="Class for playing background music " alt="" coords="855,83,985,109"/>
+<area shape="rect" id="node12" href="$class_m_v_1_1_game_script.html" title="Core for MV functionality " alt="" coords="1291,285,1406,312"/>
+<area shape="rect" id="node15" href="$class_m_v_1_1_base_object.html" title="Base class of nearly all physiscal objects " alt="" coords="456,247,547,273"/>
+<area shape="rect" id="node4" href="$class_m_v_1_1_projectile_manager.html" title="Class for spawning projectiles " alt="" coords="1273,133,1424,160"/>
+<area shape="rect" id="node5" href="$class_m_v_1_1_difficulty_manager.html" title="Class for managing difficulties " alt="" coords="1275,184,1423,211"/>
+<area shape="rect" id="node7" href="$class_m_v_1_1_chunk_data.html" title="Class for each world chunk data " alt="" coords="173,5,285,32"/>
+<area shape="rect" id="node9" href="$class_m_v_1_1_room_data.html" title="Data for each room " alt="" coords="175,481,284,508"/>
+<area shape="rect" id="node14" href="$class_m_v_1_1_base_enemy.html" title="Base class for enemies " alt="" coords="1022,285,1139,312"/>
+<area shape="rect" id="node16" href="$class_m_v_1_1_player.html" title="Class for player " alt="" coords="748,297,831,324"/>
+<area shape="rect" id="node17" href="$class_m_v_1_1_timer.html" title="MV.Timer" alt="" coords="1041,399,1120,425"/>
+<area shape="rect" id="node18" href="$class_m_v_1_1_game_script_data.html" title="Data for saving " alt="" coords="1009,449,1152,476"/>
+<area shape="rect" id="node19" href="$class_m_v_1_1_enemy_manager.html" title="Class for scripted enemy spawn " alt="" coords="1280,615,1417,641"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MV.MVUtility.TilePosToLocalChunkPos" name="MV.MVUtility.TilePosToLocalChunkPos">
+<area shape="rect" id="node2" href="$class_m_v_1_1_room_data.html#a24fa3b7392d22a44d5bd9932f208b0e7" title="Recalculate RoomData " alt="" coords="267,5,477,32"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_room_manager.html#ac6502b5912bc031a28d2ab220a25c311" title="Get local chunk position based from tile position " alt="" coords="248,56,496,83"/>
+<area shape="rect" id="node4" href="$class_m_v_1_1_game_script.html#a607f2ccb10ed89b27d73b0c1809ca23f" title="get chunk position in room from 3D position " alt="" coords="544,56,776,83"/>
+<area shape="rect" id="node5" href="$class_m_v_1_1_base_enemy.html#af8593bde67bb1e0b92bde5cfb270f204" title="Do custom event when died, need set useCustomDeath = true Need to destroy GameObject manually with th..." alt="" coords="824,56,1027,83"/>
+</map>

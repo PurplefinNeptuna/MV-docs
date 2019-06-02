@@ -1,0 +1,6 @@
+<map id="MV.BaseWeapon.HoldUse" name="MV.BaseWeapon.HoldUse">
+<area shape="rect" id="node2" href="$class_m_v_1_1_player.html#ab3cb10f0430ba1bd83c26e54daa72b42" title="Get player position " alt="" coords="232,31,387,57"/>
+<area shape="rect" id="node3" href="$class_m_v_1_1_game_script.html#a2703ec551581054c2cd5b7426e81cfd8" title="Load room referenced by MVMain.Room.activeroomData " alt="" coords="435,5,617,32"/>
+<area shape="rect" id="node4" href="$class_m_v_1_1_game_script.html#afd944b682ddbb94d2c307fae3308adde" title="Called when player come into teleporter tiles " alt="" coords="443,56,609,83"/>
+<area shape="rect" id="node5" href="$class_m_v_1_1_player.html#adb3180f04b31a09f7aaf1df41782da59" title="Method for removing player after dead, and forcing game over " alt="" coords="665,56,784,83"/>
+</map>
