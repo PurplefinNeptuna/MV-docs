@@ -13,7 +13,6 @@ var class_m_v_1_1_player =
     [ "SetColor", "class_m_v_1_1_player.html#aad56c99bffc29def9d3ca8dba64dab28", null ],
     [ "SetPosition", "class_m_v_1_1_player.html#a6df438b7f756b0d72f77eebeae2b185e", null ],
     [ "activeWeaponIndex", "class_m_v_1_1_player.html#abc9ed81dd63754c62e34d6f782721666", null ],
-    [ "animator", "class_m_v_1_1_player.html#a4d9e59440c955eee5436261fb063b28a", null ],
     [ "blinkRateMax", "class_m_v_1_1_player.html#a423f66826a91358a75e0b6d5b823afa6", null ],
     [ "freezeInput", "class_m_v_1_1_player.html#a4c61727e909f475d3b99f9d3e2e104ce", null ],
     [ "godMode", "class_m_v_1_1_player.html#af3ce33553953a4170bc6fed198809f42", null ],

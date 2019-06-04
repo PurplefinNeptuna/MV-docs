@@ -12,5 +12,6 @@ var searchData=
   ['soundmanager',['SoundManager',['../class_m_v_1_1_sound_manager.html',1,'MV']]],
   ['spawn',['Spawn',['../class_m_v_1_1_enemy_manager.html#afc8f032bd9b9dc5c5679625dcd7468be',1,'MV.EnemyManager.Spawn()'],['../class_m_v_1_1_projectile_manager.html#a80de73f7fa3e19047c6632cf558ad592',1,'MV.ProjectileManager.Spawn()']]],
   ['stagedata',['StageData',['../class_m_v_1_1_stage_data.html',1,'MV']]],
+  ['startsettings',['StartSettings',['../class_start_settings.html',1,'']]],
   ['startuse',['StartUse',['../class_m_v_1_1_base_weapon.html#a7780a16960889ea7275cbf3f11f76141',1,'MV::BaseWeapon']]]
 ];

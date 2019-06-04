@@ -1,11 +1,20 @@
 var hierarchy =
 [
+    [ "Attribute", null, [
+      [ "MV.ExecOrder", "class_m_v_1_1_exec_order.html", null ]
+    ] ],
     [ "MV.BaseEnemyBuff", "class_m_v_1_1_base_enemy_buff.html", null ],
     [ "MV.BasePlayerBuff", "class_m_v_1_1_base_player_buff.html", null ],
     [ "MV.BaseWeapon", "class_m_v_1_1_base_weapon.html", null ],
     [ "MV.ChunkData", "class_m_v_1_1_chunk_data.html", null ],
     [ "MV.ChunkRow", "class_m_v_1_1_chunk_row.html", null ],
     [ "MV.DifficultyManager", "class_m_v_1_1_difficulty_manager.html", null ],
+    [ "Editor", null, [
+      [ "StartSettings", "class_start_settings.html", null ]
+    ] ],
+    [ "EditorWindow", null, [
+      [ "MV.RoomMaker", "class_m_v_1_1_room_maker.html", null ]
+    ] ],
     [ "MV.EnemyManager", "class_m_v_1_1_enemy_manager.html", null ],
     [ "MV.GameScriptData", "class_m_v_1_1_game_script_data.html", null ],
     [ "MonoBehaviour", null, [
